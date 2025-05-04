@@ -1,0 +1,9 @@
+[package]
+name = "dds_to_xt1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ddsfile = "0.5.2"
+num-traits = "0.2.19"
+tegra_swizzle = "0.4.0"
