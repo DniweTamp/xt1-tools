@@ -10,7 +10,7 @@
 - Put the .py file in `Noesis\plugins\python`.
 ### Usage instructions:
 - You can just open any .xt1 file extracted by `wtb_wta_extractor.rb` from [bayonetta_tools](https://github.com/Kerilk/bayonetta_tools)
-- You can export any image from noesis straight to .xt1, by default it will export to `ASTC_8x8_UNORM`, but you can specify other formats using additional arguments (see screenshot)
+- You can export any image from noesis straight to .xt1, by default it will export to `ASTC_8x8_UNORM`, but you can specify other formats using additional arguments (check Advanced commands in Noesis UI for more)
 - Noesis also supports commandline mode: `noesis.exe ?cmode input.png output.xt1 -xt1_8x8 -xt1_SRGB`
 ### Known issues:
 - Unorthodox formats like `ASTC_6x6` etc. will appear correctly in noesis, but won't display properly ingame.
